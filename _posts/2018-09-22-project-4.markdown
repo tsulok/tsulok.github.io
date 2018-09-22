@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 4
+date: 2016-10-01
+title: Sunport Android application development
+img: sunport-project-header.jpg
+detail-img: sunport.png
+alt: image-alt
+project-date: 2016
+client: Veeyah LLC
+category: Android Development
+description: SunPort is part of a growing effort to create communication between energy producers and consumers. It’s the world’s first smart grid solar delivery device and it’s the easiest way to get solar energy. After it was successfully founded on Kickstarter in August 2015, the mobile app development started for both Android and iOS. <p>The application reads in the background through BLE the information from the dedicated hardware and use its data show the usage of selected consumers (e.g fridge, TV) </p>
+responsibility: Teamleader of 2 developers
+technologies: JAVA
+download-android: https://goo.gl/x8igCD
+
+---

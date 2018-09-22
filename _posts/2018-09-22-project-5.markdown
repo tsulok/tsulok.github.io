@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 5
+date: 2016-07-01
+title: EPG iOS application development
+img: epg-project-header.jpg
+detail-img: epg-featured.png
+alt: image-alt
+project-date: 2016
+client: Magyar Telekom Ltd
+category: iOS Development
+description: Electronic Program Guide, provided by T-Home to their customers. It allows users to overview the TV program, remote control their set top box devices through local wifi, manage records and browse the on-demand store. The application is available both on iPhone and iPad.
+responsibility: Part of a group with 4 developers, focused on backend integration
+technologies: Swift
+download-ios: https://goo.gl/CaLJsA
+
+---

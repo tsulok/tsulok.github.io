@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+date: 2018-03-01
+title: AANGEL Android application
+img: aangel-project-header.jpg
+detail-img: aangel.png
+alt: image-alt
+project-date: 2018
+client: Biophilia
+category: Android Development
+description: ActivAngel is a smart IOT application which communicates with a dedicated thermometer hardware over BLE to measure infants & children body temperature. The application collects the data in the background and provides various charts and alerts to the subscribed participants.
+responsibility: Sole app development
+technologies: Kotlin
+
+---
