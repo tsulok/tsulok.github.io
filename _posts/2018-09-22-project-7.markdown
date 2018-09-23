@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 7
+date: 2015-03-01
+title: FIFA weekly Android application
+img: fifa-project-header.jpg
+detail-img: fifa-weekly-featured.png
+alt: image-alt
+project-date: 2015
+client: Makeitappen GmbH
+category: Android development
+description: The FIFA Weekly (currently named FIFA 1904) is a magazine for smartphones, where users can read the official FIFA weekly issues in a handy, comfortable way, moreover the text can be read out loud by using the Text to Speech service of the system. The issues are automatically downloaded and cached along with the media files for offline use. The app is published under the name of the FIFA.
+responsibility: Teamleader of 2 developers
+technologies: JAVA
+download-android: https://goo.gl/wCuLGF
+
+---

@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 8
+date: 2014-06-01
+title: Deepak Chopra Android applications
+img: deepak-project-header.jpg
+detail-img: deepak-featured.png
+alt: image-alt
+project-date: 2013-2014
+client: Chopra Enterprises LLC
+category: Android development
+description: Meditation Experience & Ananda Living in Love are applications for Deepak Chopra’s meditation products on mobile phone and tablets. The users can synchronize their purchased libraries within the application that they can stream or download for offline use. The libraries behave as albums, can be played while the application is running or even if closed. Screen lock and notification controls are used for the best experience. <p>Meditation Experience has more than 100k downloads, while Ananda has been unlisted from the Play store however it reached more than 500k USD through IAP</p>
+responsibility: Developer in a team of 3
+technologies: JAVA
+download-android: https://goo.gl/rD4urK
+
+---

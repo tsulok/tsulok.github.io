@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-09-22T12:45:21+02:00</updated>
+  <updated>2018-09-23T22:12:25+02:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -88,6 +88,40 @@
     </entry>
   
     <entry>
+      <title type="html">External Digiatal Consultant to McKinsey</title>
+      <link href="http://localhost:4000/android%20&%20ios/2018/04/01/project-9/" rel="alternate" type="text/html" title="External Digiatal Consultant to McKinsey" />
+      <published>2018-04-01T00:00:00+02:00</published>
+      <updated>2018-04-01T00:00:00+02:00</updated>
+      <id>http://localhost:4000/android%20&amp;%20ios/2018/04/01/project-9</id>
+      <content type="html" xml:base="http://localhost:4000/android%20&amp;%20ios/2018/04/01/project-9/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Android &amp; iOS" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">AANGEL Android application</title>
       <link href="http://localhost:4000/android%20development/2018/03/01/project-3/" rel="alternate" type="text/html" title="AANGEL Android application" />
       <published>2018-03-01T00:00:00+01:00</published>
@@ -122,12 +156,46 @@
     </entry>
   
     <entry>
-      <title type="html">Bigi client &amp;amp; retailer Android application development</title>
-      <link href="http://localhost:4000/android%20development/2017/09/01/project-2/" rel="alternate" type="text/html" title="Bigi client &amp; retailer Android application development" />
+      <title type="html">Confidental project for Daimler</title>
+      <link href="http://localhost:4000/ios/2017/09/01/project-10/" rel="alternate" type="text/html" title="Confidental project for Daimler" />
       <published>2017-09-01T00:00:00+02:00</published>
       <updated>2017-09-01T00:00:00+02:00</updated>
-      <id>http://localhost:4000/android%20development/2017/09/01/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/android%20development/2017/09/01/project-2/"></content>
+      <id>http://localhost:4000/ios/2017/09/01/project-10</id>
+      <content type="html" xml:base="http://localhost:4000/ios/2017/09/01/project-10/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="iOS" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bigi client &amp;amp; retailer Android application</title>
+      <link href="http://localhost:4000/android%20development/2017/05/01/project-2/" rel="alternate" type="text/html" title="Bigi client &amp; retailer Android application" />
+      <published>2017-05-01T00:00:00+02:00</published>
+      <updated>2017-05-01T00:00:00+02:00</updated>
+      <id>http://localhost:4000/android%20development/2017/05/01/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/android%20development/2017/05/01/project-2/"></content>
 
       
       
@@ -156,8 +224,8 @@
     </entry>
   
     <entry>
-      <title type="html">Sunport Android application development</title>
-      <link href="http://localhost:4000/android%20development/2016/10/01/project-4/" rel="alternate" type="text/html" title="Sunport Android application development" />
+      <title type="html">Sunport Android application</title>
+      <link href="http://localhost:4000/android%20development/2016/10/01/project-4/" rel="alternate" type="text/html" title="Sunport Android application" />
       <published>2016-10-01T00:00:00+02:00</published>
       <updated>2016-10-01T00:00:00+02:00</updated>
       <id>http://localhost:4000/android%20development/2016/10/01/project-4</id>
@@ -190,8 +258,8 @@
     </entry>
   
     <entry>
-      <title type="html">EPG iOS application development</title>
-      <link href="http://localhost:4000/ios%20development/2016/07/01/project-5/" rel="alternate" type="text/html" title="EPG iOS application development" />
+      <title type="html">EPG iOS application</title>
+      <link href="http://localhost:4000/ios%20development/2016/07/01/project-5/" rel="alternate" type="text/html" title="EPG iOS application" />
       <published>2016-07-01T00:00:00+02:00</published>
       <updated>2016-07-01T00:00:00+02:00</updated>
       <id>http://localhost:4000/ios%20development/2016/07/01/project-5</id>
@@ -211,6 +279,74 @@
 
       
         <category term="iOS Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">FIFA weekly Android application</title>
+      <link href="http://localhost:4000/android%20development/2015/03/01/project-7/" rel="alternate" type="text/html" title="FIFA weekly Android application" />
+      <published>2015-03-01T00:00:00+01:00</published>
+      <updated>2015-03-01T00:00:00+01:00</updated>
+      <id>http://localhost:4000/android%20development/2015/03/01/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/android%20development/2015/03/01/project-7/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Android development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Deepak Chopra Android applications</title>
+      <link href="http://localhost:4000/android%20development/2014/06/01/project-8/" rel="alternate" type="text/html" title="Deepak Chopra Android applications" />
+      <published>2014-06-01T00:00:00+02:00</published>
+      <updated>2014-06-01T00:00:00+02:00</updated>
+      <id>http://localhost:4000/android%20development/2014/06/01/project-8</id>
+      <content type="html" xml:base="http://localhost:4000/android%20development/2014/06/01/project-8/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Android development" />
       
 
       

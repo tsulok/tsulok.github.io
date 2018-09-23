@@ -14,7 +14,9 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
+                            {% if post.detail-img %}
                             <img src="img/portfolio/{{ post.detail-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
@@ -23,7 +25,7 @@
                                 <li>Responsibility:
                                     <strong class="highlighted">{{ post.responsibility }}</strong>
                                 </li>
-                                <li>Technologies:
+                                <li>Technology:
                                     <strong class="highlighted">{{ post.technologies }}</strong>
                                 </li>
                             </ul>

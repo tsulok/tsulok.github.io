@@ -1,17 +1,17 @@
 ---
 layout: default
 modal-id: 2
-date: 2017-09-01
-title: Bigi client & retailer Android application development
+date: 2017-05-01
+title: Bigi client & retailer Android application
 img: bigi-project-header.jpg
 detail-img: bigi.png
 alt: image-alt
 project-date: 2017
 client: Designatives
 category: Android Development
-description: Bigi is a smart mobile app that helps you to find the best available offers and deals easily. You can explore our instantly redeemable offers across various categories offering local experiences, dining, shopping and more!
+description: Bigi is a smart mobile app that helps to find the best available offers and deals easily. Users can explore the instantly redeemable offers across various categories offering local experiences, dining, shopping and more! The application fetches the data always from a backend and use QR codes to redeem qoupons.
 responsibility: Development of the client and the retailer apps
-download-android: https://play.google.com/store/apps/details?id=hu.designatives.bigi&hl=en
+download-android: https://goo.gl/mjJSZT
 technologies: JAVA
 
 ---

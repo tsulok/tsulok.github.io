@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2016-07-01
-title: EPG iOS application development
+title: EPG iOS application
 img: epg-project-header.jpg
 detail-img: epg-featured.png
 alt: image-alt
