@@ -9,7 +9,7 @@ alt: image-alt
 project-date: 2018
 client: Designatives
 category: iOS Development
-description: SNITT is Hungarian start-up and is taking off this year. Without giving away too much, we hope that the SNITT app will change the way you create videos. <p>The app is currently being developed for iOS and after user-testing is complete we'll launch it.</p>
+description: SNITT is a Hungarian start-up and it's taking off this year. Without giving away too much, we hope that the SNITT app will change the way you create videos. <p>The app is currently being developed for iOS and after user-testing is complete we'll launch it.</p>
 responsibility: Teamleader of 5 developers
 technologies: Swift
 

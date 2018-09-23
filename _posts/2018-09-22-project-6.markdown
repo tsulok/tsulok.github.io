@@ -9,9 +9,11 @@ alt: image-alt
 project-date: 2018
 client: Notch Interfaces Inc
 category: iOS Development
-description: Notch Pioneer allows to record and replay movements recorded with the Notch motion capture system, export movement data and manage your Notch devices. The data is recorded with the standalone Notch harware kit and communicated through using Bluetooth connection. <p>Beside improving the app stability and develop continously new features I'm also involved to review, maintain & document the iOS SDK</p>
+description: Notch Pioneer allows to record and replay movements recorded with the Notch motion capture system, export movement data and manage your Notch devices. The data is recorded with the standalone Notch hardware kit and communicated through using Bluetooth connection. <p>Besides improving the app stability and continuously developing new features. I'm also involved in reviewing, maintaining and documenting the IOS SDK</p>
 responsibility: Continously evolve the app, adjust latest firmware updates
 technologies: Swift
 download-ios: https://goo.gl/19CBte
+
+
 
 ---
