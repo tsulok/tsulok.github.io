@@ -9,7 +9,7 @@ alt: image-alt
 project-date: 2017
 client: Designatives
 category: Android Development
-description: Bigi is a smart mobile app that helps finding the best available offers and deals easily. Users can explore the instantly redeemable offers across various categories offering local experiences, dining, shopping and more! The application fetches the data always from a backend and uses QR codes to redeem qoupons.
+description: Bigi is a smart mobile app that helps finding the best available offers and deals easily. Users can explore the instantly redeemable offers across various categories offering local experiences, dining, shopping and more! The application always fetches the data from a backend and uses QR codes to redeem coupons.
 responsibility: Development of the client and the retailer apps
 download-android: https://goo.gl/mjJSZT
 technologies: JAVA

@@ -8,7 +8,7 @@ alt: image-alt
 project-date: 2017
 client: Daimler
 category: iOS
-description: In 2017 I had the oppurtunity to work in New York and then in Californa (at Mercedes Benz Research Facility) on one of their confidental project. In the project we collected various information about the users driving behaviours and created various feedbacks and charts. Unfortunately more information is strictly confidential.
+description: In 2017 I had the oppurtunity to work in New York and then in Californa (at Mercedes Benz Research Facility) on one of their projects. In the project we collected various peaces of information about the users driving behaviours and created various feedbacks and charts. Unfortunately more information is under strict non-disclosure agreement.
 responsibility: Sole iOS developer
 technologies: Swift
 

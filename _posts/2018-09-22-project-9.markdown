@@ -2,13 +2,13 @@
 layout: default
 modal-id: 9
 date: 2018-04-01
-title: External Digiatal Consultant to McKinsey
+title: External Digital Consultant to McKinsey
 img: mck-project-header.jpg
 alt: image-alt
 project-date: 2015-2018
 client: Various clients
 category: Android & iOS
-description: Between 2015 and 2018 I was mainly working on enterprise projects provided to one of the biggest consulting company. 75% of them were B2B iPad applications with huge databases (thousands of pdfs, images & videos) and very sensitive (also valuable) datasets. These applications focused on impressive user interfaces, secure networking & caching. <p>Beside B2B applications we created several other in house applications most importantly a human resource manager application, which nearly took 2000 development hours until the first release for a team of four. It contains over 50 screens, real time VPN secured inapp messaging (with socket communications) and endless use cases. <p>In the beginning of 2018 I've been sent to abroad locations to work closely with the clients and digitalize their solutions to mobile.</p> <p>Due to strict confidential contracts neither the name of the above mentioned projects can be told.</p>
+description: Between 2015 and 2018 I was mainly working on enterprise projects provided to one of the biggest consulting company. 75% of them were B2B iPad applications with huge databases (thousands of pdfs, images & videos) and very sensitive (also valuable) datasets. These applications focused on impressive user interfaces, secure networking & caching. <p>Beside B2B applications we created several other in house applications most importantly a human resource manager application, which nearly took 2000 development hours until the first release for a team of four. It contains over 50 screens, real time VPN secured inapp messaging (with socket communications) and endless use cases. <p>In the beginning of 2018 I've been sent to abroad locations to work closely with the clients and digitalize their solutions to mobile.</p> <p>Due to strictly confidential contracts neither the name of the above mentioned projects can be told.</p>
 responsibility: Digital consultant, developer, tech lead
 technologies: JAVA, Kotlin, Swift
 
