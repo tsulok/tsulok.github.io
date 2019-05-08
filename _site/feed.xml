@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-09-24T10:06:16+02:00</updated>
+  <updated>2019-05-08T11:34:42+02:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -279,40 +279,6 @@
 
       
         <category term="iOS Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">FIFA weekly Android application</title>
-      <link href="http://localhost:4000/android%20development/2015/03/01/project-7/" rel="alternate" type="text/html" title="FIFA weekly Android application" />
-      <published>2015-03-01T00:00:00+01:00</published>
-      <updated>2015-03-01T00:00:00+01:00</updated>
-      <id>http://localhost:4000/android%20development/2015/03/01/project-7</id>
-      <content type="html" xml:base="http://localhost:4000/android%20development/2015/03/01/project-7/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Android development" />
       
 
       
